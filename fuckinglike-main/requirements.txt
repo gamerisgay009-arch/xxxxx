@@ -1,0 +1,9 @@
+Flask[async]
+requests
+rich
+gunicorn
+aiohttp
+googleapis-common-protos
+pycryptodome
+protobuf
+Werkzeug
